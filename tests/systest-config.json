@@ -1,0 +1,5 @@
+{
+  "testEnvironment": "node",
+  "testMatch": ["**/tests/systest.test.js"],
+  "testRunner": "jest-circus/runner"
+}

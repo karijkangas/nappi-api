@@ -1,0 +1,8 @@
+{
+  "testEnvironment": "node",
+  "testMatch": ["**/__tests__/**/*.test.js"],
+  "collectCoverage": true,
+  "collectCoverageFrom": ["src/*.js"],
+  "coveragePathIgnorePatterns": ["__tests__", "__mocks__"],
+  "coverageDirectory": "./temp/coverage"
+}
