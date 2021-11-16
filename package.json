@@ -19,7 +19,7 @@
   "author": "Kari Kangas <karijkangas@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "aws-sdk": "^2.493.0",
+    "aws-sdk": "^2.814.0",
     "cors": "^2.8.5",
     "eslint": "^5.15.3",
     "eslint-config-airbnb": "^17.1.0",
