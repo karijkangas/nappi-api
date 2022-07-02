@@ -1,6 +1,6 @@
 # Nappi API
 
-Nappi API provides a backend for Uunobutton.
+Nappi API provides a backend for Uunobutton, still online.
 
 Nappi API is build using AWS API Gateway, Lambda, and DynamoDB. The Lambda code is written using Node.js.
 
